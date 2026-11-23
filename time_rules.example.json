@@ -1,0 +1,31 @@
+{
+  "note": "The rulebook. The ONE source for how tracked time becomes client hours. The Workday Nudge reads it every run and keeps it up to date from your notes file and your own Slack messages.",
+  "updated": "[ISO time of the last change]",
+  "updated_by": "[you, or Workday Nudge]",
+  "caps": {
+    "[Client A]": "[weekly cap in hours]",
+    "[Client B]": "[weekly cap in hours]",
+    "[YOUR BUSINESS]": "[weekly target in hours]"
+  },
+  "title_rule": "[How a time entry's title tells you which client it was for]",
+  "tools": {
+    "[tool only ever used for one client]": "[Client A]"
+  },
+  "splits": {
+    "[tool shared across clients]": { "[Client A]": "[default share]", "[Client B]": "[default share]" }
+  },
+  "untitled_blocks": "[What to do with untitled time inside working hours]",
+  "open_questions": [
+    "[A tool or block you have not decided how to count yet]"
+  ],
+  "weeks": {
+    "[YYYY-MM-DD, the first day of the week]": {
+      "overrides": [
+        { "said": "[your words]", "at": "[message time]", "applies": "[what it changes this week]" }
+      ],
+      "explanations": [
+        { "said": "[your words]", "at": "[message time]", "applies": "[which block it explains]" }
+      ]
+    }
+  }
+}

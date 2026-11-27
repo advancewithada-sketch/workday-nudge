@@ -84,5 +84,3 @@ Hit Run now and read what comes back. The first run shows you which blocks your 
 ## Shared as-is
 
 This is the nudge as it runs for one Fractional COO, with every personal detail taken out. No support, no roadmap. Fork it and make it yours.
-
-Made by Ada, Fractional COO, at [The Optimized CEO](https://www.theoptimized.ceo). I build the backend your business actually runs on.

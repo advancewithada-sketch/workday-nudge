@@ -15,6 +15,10 @@ It never tracks for you and never guesses a number. It reads, adds up, and sends
 
 The prompt is in [`PROMPT.md`](PROMPT.md). Each feature, and how to change it, is in [`FEATURES.md`](FEATURES.md).
 
+## The dashboard: Marketing HQ
+
+This agent reports into one section of **Marketing HQ**, a single dashboard where all of the marketing agents land. The whole dashboard is free in its own repo: [marketing-hq](https://github.com/advancewithada-sketch/marketing-hq). Open it locally to see every section with sample data, or publish it as a Claude artifact with a database and point this agent at it.
+
 ## Features
 
 - Flags client action items that are overdue or nearly due
@@ -84,3 +88,5 @@ Hit Run now and read what comes back. The first run shows you which blocks your 
 ## Shared as-is
 
 This is the nudge as it runs for one Fractional COO, with every personal detail taken out. No support, no roadmap. Fork it and make it yours.
+
+Made by Ada from [theoptimized.ceo](https://www.theoptimized.ceo).
